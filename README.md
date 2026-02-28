@@ -15,7 +15,6 @@ Because of this, they are missing chances to earn more, loosing customers, and m
 They need proper report and insights to understand their sales, customer, and product performance better.
 
 
-
 ### Screenshots / Demos
 
-![Dashboard Preview]([BI Dashboard.png](https://github.com/Channdra1/Sales_Store_Anaysis/blob/main/BI%20Dashboard.png))
+![Dashboard Preview](Dashboard.png)
