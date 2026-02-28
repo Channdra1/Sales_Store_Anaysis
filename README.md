@@ -14,21 +14,22 @@ This project demonstrates the full life cycle of data analytics:
 📌 Goal: Identify meaningful trends in sales, customer behavior, product performance, and operational issues such as cancellations and returns.
 
 ## Dataset Description
-| Column	|               Description
-| transaction_id	|       Unique order identifier
-customer_id	Unique customer identifier
-customer_name	Customer name
-customer_age	Age of the customer
-gender	Customer gender
-product_id	Product identifier
-product_name	Product name
-product_category	Category of the product
-quantity	Units sold
-price	Price per unit
-payment_mode	e.g., UPI, Card
-purchase_date	Date of purchase
-time_of_purchase	Time transaction occurred
-status	Order status (delivered/cancelled/returned)
+| Column            | Description                                      |
+|-------------------|--------------------------------------------------|
+| transaction_id    | Unique order identifier                          |
+| customer_id       | Unique customer identifier                       |
+| customer_name     | Customer name                                    |
+| customer_age      | Age of the customer                              |
+| gender            | Customer gender                                  |
+| product_id        | Product identifier                               |
+| product_name      | Product name                                     |
+| product_category  | Category of the product                          |
+| quantity          | Units sold                                       |
+| price             | Price per unit                                   |
+| payment_mode      | e.g., UPI, Card                                  |
+| purchase_date     | Date of purchase                                 |
+| time_of_purchase  | Time transaction occurred                        |
+| status            | Order status (delivered/cancelled/returned)      |
 
 
 ### Screenshots / Demos
